@@ -1,0 +1,23 @@
+{
+  "name": "shame-clock-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "css-checkbox-library": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zepalz/shame-clock-frontend.git"
+  },
+  "author": "ZEpalZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zepalz/shame-clock-frontend/issues"
+  },
+  "homepage": "https://github.com/zepalz/shame-clock-frontend#readme"
+}

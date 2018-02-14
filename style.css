@@ -1,0 +1,47 @@
+:root {
+  --matt: #2d2d2d;
+}
+
+body{
+  background-color: var(--matt);
+}
+
+.clock{
+  font-size: 120px;
+  min-width: 0px;
+  color: var(--matt);
+}
+
+.colon{
+  font-size: 120px;
+  color: white;
+}
+
+.time{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.close{
+  height: auto;
+  width: auto;
+}
+
+.name{
+  font-size: 30px;
+}
+
+#set-alarm{
+  font-size: 30px;
+}
+
+@media (max-width: 765px) {
+  .colon{
+    font-size: 60px;
+  }
+
+  .clock {
+    font-size: 60px;
+  }
+}
